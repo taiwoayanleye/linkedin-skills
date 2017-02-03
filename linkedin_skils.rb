@@ -1,5 +1,5 @@
 require 'anemone' # Install the anemone gem before you begin https://github.com/chriskite/anemone
-#The below count is manually extracted from https://www.linkedin.com/directory/topics-X (https://www.linkedin.com/directory/topics-a/) where 'X' is the alphabet
+#The below count is manually extracted from https://www.linkedin.com/directory/topics-x (https://www.linkedin.com/directory/topics-a/) where 'x' is the alphabet
 word_to_char = {
   a: 98, b: 100, c: 99, d: 99, e: 99, f: 97, g: 96, h: 95, i: 100, j: 88, k: 92, l: 97, m: 100, 
   n: 94, o: 99, p: 99, q: 87, r: 100, s: 100, t: 100, u: 94, v: 96, w: 100, x: 73, y: 53, z: 0
